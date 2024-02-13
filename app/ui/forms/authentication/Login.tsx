@@ -67,7 +67,7 @@ export default function Login() {
 
         setIsLoading(false);
 
-        router.refresh();
+        router.refresh()
     };
 
     const content = isLoading ? (
