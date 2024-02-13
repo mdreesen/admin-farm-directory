@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://thefarmdirectory.com
-
-# Sitemaps
-Sitemap: https://thefarmdirectory.com/sitemap.xml
