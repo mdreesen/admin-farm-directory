@@ -48,7 +48,7 @@ export default function Login() {
 
         if (!loggingIn.ok) {
             setIsLoading(false);
-            setError("Try again...finding the developer who made this...");
+            setError("Wait....you're not an admin...");
             throw new Error("Failed to login user");
         };
 
