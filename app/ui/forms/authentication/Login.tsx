@@ -92,9 +92,6 @@ export default function Login() {
                         )}
 
                         {isError && <span style={{ color: 'red' }}>{isError}</span>}
-                        <p className="text-sm font-light text-gray-500">
-                            Don’t have an account yet? <Link href="/authentication/signup" className="font-medium text-primary-600 hover:underline">Sign up</Link>
-                        </p>
                     </form>
                 </div>
             </div>
