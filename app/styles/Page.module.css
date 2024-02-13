@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 8% 0;
+  min-height: 100vh;
+  align-items: center;
+  row-gap: 1rem;
+  z-index: 1010;
+}
+
+.no-data {
+  padding: 2%;
+  text-align: center;
+}
+
+@media only screen and (max-width: 630px) {
+  .container {
+    width: 65%;
+    padding: 1rem 0 4rem 0;
+  }
+}

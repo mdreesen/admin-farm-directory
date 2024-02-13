@@ -1,0 +1,33 @@
+.container {
+  height: 5rem;
+  width: 100%;
+  background-color: ghostwhite;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  z-index: 20;
+
+  /* bottom: 0;
+  position: absolute; */
+}
+
+.right {
+  display: flex;
+  -moz-column-gap: 2rem;
+  column-gap: 2rem;
+  align-items: center;
+}
+
+/* @media only screen and (max-width: 630px) {
+  .container {
+    height: 5rem;
+    width: 100%;
+    background-color: ghostwhite;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    top: -103px;
+  }
+} */

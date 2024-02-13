@@ -1,0 +1,26 @@
+[
+    {
+        "linkName": "Farm to Table",
+        "directTo": "/farm-to-table"
+    },
+    {
+        "linkName": "Live Animals",
+        "directTo": "/live-animals"
+    },
+    {
+        "linkName": "Feed /<br/>Bedding",
+        "directTo": "/feed-bedding"
+    },
+    {
+        "linkName": "Agritourism",
+        "directTo": "/agritourism"
+    },
+    {
+        "linkName": "Stores",
+        "directTo": "/stores"
+    },
+    {
+        "linkName": "Farm Services",
+        "directTo": "/farm-services"
+    }
+]

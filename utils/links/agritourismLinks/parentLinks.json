@@ -1,0 +1,22 @@
+[
+    {
+        "linkName": "You Pick",
+        "directTo": "/agritourism/you-pick"
+    },
+    {
+        "linkName": "Farm Events",
+        "directTo": "/agritourism/farm-events"
+    },
+    {
+        "linkName": "Flowers",
+        "directTo": "/agritourism/flowers"
+    },
+    {
+        "linkName": "Tasting Rooms",
+        "directTo": "/agritourism/tasting-rooms"
+    },
+    {
+        "linkName": "Farm Venues<br/>For Rent",
+        "directTo": "/agritourism/farm-venues-for-rent"
+    }
+]

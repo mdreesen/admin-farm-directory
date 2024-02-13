@@ -1,0 +1,51 @@
+.heroContainer {
+  align-items: center;
+  position: relative;
+  display: contents;
+  justify-content: center;
+  align-items: center;
+  color: ghostwhite;
+}
+
+.hero {
+  height: 75vh;
+  width: 100vw;
+  object-fit: cover;
+  filter: brightness(0.8);
+}
+
+.title {
+  position: absolute;
+  top: 32%;
+  width: 100%;
+  text-align: center;
+}
+
+.backgroundImg {
+  height: 75vh !important;
+  position: relative !important;
+  object-fit: cover;
+}
+
+.center-con {
+  display: none;
+}
+
+@media only screen and (max-width: 575px) {
+  .hero {
+    /* height: 100vh; */
+    width: 100vw;
+    object-fit: cover;
+    filter: brightness(0.8);
+  }
+
+  .title {
+    position: absolute;
+    top: 34%;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 15vh;
+  }
+}

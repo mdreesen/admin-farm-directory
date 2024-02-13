@@ -1,0 +1,10 @@
+[
+    {
+        "linkName": "Hops",
+        "directTo": "/farm-to-table/vineyards-orchards/hops"
+    },
+    {
+        "linkName": "Winery",
+        "directTo": "/farm-to-table/vineyards-orchards/winery"
+    }
+]

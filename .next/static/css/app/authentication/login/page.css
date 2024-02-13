@@ -1,0 +1,27 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/styles/LoadingCircle.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.LoadingCircle_container__OQyDX {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.LoadingCircle_container-small__YmHov {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/styles/toast/ToastApproved.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.ToastApproved_container___jDo0 {
+  position: fixed;
+  bottom: 95px;
+  left: 12px;
+  justify-content: center;
+  display: flex;
+}
+

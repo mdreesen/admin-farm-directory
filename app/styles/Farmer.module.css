@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 4rem;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.no-data {
+  padding: 2%;
+  text-align: center;
+}
+
+@media only screen and (max-width: 630px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 4rem;
+    min-height: 100vh;
+    align-items: center;
+  }
+}

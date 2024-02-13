@@ -1,0 +1,100 @@
+.container {
+    color: ghostwhite;
+    position: relative;
+    font-family: sans-serif;
+  }
+  
+  .container::before {
+    border-radius: 50%;
+    width: 6rem;
+    height: 6rem;
+    top: 30%;
+    right: 7%;
+  }
+  
+  .container .box {
+    width: 13.875em;
+    height: 12.875em;
+    padding: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.222);
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    border-radius: 0.7rem;
+    transition: all ease 0.3s;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: ghostwhite;
+    color: black;
+  }
+  
+  .container .box {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .container .box .title {
+    font-size: 2rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+  }
+  
+  .container .box div strong {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .container .box div p {
+    margin: 0;
+    font-size: 0.9em;
+    font-weight: 300;
+    letter-spacing: 0.1em;
+  }
+  
+  .container .box div span {
+    font-size: 0.7rem;
+    font-weight: 300;
+  }
+  
+  .container .box div span:nth-child(3) {
+    font-weight: 500;
+    margin-right: 0.2rem;
+  }
+  
+  .container .box:hover {
+    box-shadow: 0px 0px 20px 1px #ffbb763f;
+    border: 1px solid rgba(255, 255, 255, 0.454);
+  }
+  
+  @media only screen and (max-width: 630px) {
+    .container {
+      color: ghostwhite;
+      position: relative;
+      font-family: sans-serif;
+      /* left: 1rem; */
+    }
+
+    .container .box {
+      width: 9.875em;
+      height: 7.875rem;
+      padding: 1rem;
+      border: 1px solid rgba(255, 255, 255, 0.222);
+      -webkit-backdrop-filter: blur(20px);
+      backdrop-filter: blur(20px);
+      border-radius: 0.7rem;
+      transition: all ease 0.3s;
+      justify-content: center;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      background-color: ghostwhite;
+      color: black;
+    }
+
+    .container .box .title {
+      font-size: 1.2rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+    }
+  }

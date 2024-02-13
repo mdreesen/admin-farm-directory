@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "642f8d23498c673998d2b2c5"
+  },
+  "postedAt": {
+    "$numberLong": "1651965202500"
+  },
+  "type": "Farm to Table",
+  "product": [
+    {
+      "product_name": "Beef",
+      "product_description": "Locally raised Angus/Galloway grass finished beef.  Taking reservations on a rolling basis",
+      "product_feed": [
+        "Grass Finished",
+        "Grain Finished"
+      ],
+      "available": true,
+      "show": true
+    },
+    {
+      "product_name": "Goat",
+      "product_description": "Halal Goat",
+      "product_feed": [],
+      "available": true,
+      "show": true
+    },
+    {
+      "product_name": "Eggs",
+      "product_description": "My kid wanted a business for me to lose money",
+      "product_feed": [],
+      "available": true,
+      "show": true
+    }
+  ],
+  "user": {
+    "id": "6276fc6ba6d2c39f61157254",
+    "first_name": "Kenneth",
+    "last_name": "Smith",
+    "farm_name": "KD Farms, LLC",
+    "address_road": "290 Jaquette Rd",
+    "address_city": "Kalispell",
+    "address_state": "MT",
+    "address_zip": "59901",
+    "phone": "406-260-7818",
+    "email": "smart@mongodb.com",
+    "website": "www.kdfarms.site",
+    "facebook": "@kdfarms",
+    "instagram": "@kdfarmsmt"
+  }
+}]

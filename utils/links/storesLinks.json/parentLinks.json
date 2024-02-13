@@ -1,0 +1,14 @@
+[
+    {
+        "linkName": "Farm Stands",
+        "directTo": "/stores/farm-stands"
+    },
+    {
+        "linkName": "Farm Stores",
+        "directTo": "/stores/farm-stores"
+    },
+    {
+        "linkName": "Farmers Markets",
+        "directTo": "/stores/farmers-markets"
+    }
+]

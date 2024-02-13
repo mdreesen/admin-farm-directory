@@ -1,0 +1,26 @@
+[
+    {
+        "linkName": "Livestock / Cattle",
+        "directTo": "/live-animals/livestock-cattle"
+    },
+    {
+        "linkName": "Equine / Mules / Donkeys",
+        "directTo": "/live-animals/equine-mules-donkeys"
+    },
+    {
+        "linkName": "Pigs / Hogs / Piglets",
+        "directTo": "/live-animals/pigs-hogs-piglets"
+    },
+    {
+        "linkName": "Birds",
+        "directTo": "/live-animals/birds"
+    },
+    {
+        "linkName": "Small Ruminants",
+        "directTo": "/live-animals/goat-sheep-ruminants"
+    },
+    {
+        "linkName": "Other",
+        "directTo": "/live-animals/other"
+    }
+]

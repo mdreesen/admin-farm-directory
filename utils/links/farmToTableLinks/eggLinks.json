@@ -1,0 +1,18 @@
+[
+    {
+        "linkName": "Chicken",
+        "directTo": "/farm-to-table/eggs/chicken"
+    },
+    {
+        "linkName": "Duck",
+        "directTo": "/farm-to-table/eggs/duck"
+    },
+    {
+        "linkName": "Quail",
+        "directTo": "/farm-to-table/eggs/quail"
+    },
+    {
+        "linkName": "Other",
+        "directTo": "/farm-to-table/eggs/other"
+    }
+]
