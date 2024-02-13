@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/ui/dashboard/farmers-chart.js", "app/ui/dashboard/cardsFarmer.app/ui/dashboard/latest-farmers.jsces.js", "app/ui/dashboard/cardsUser.js", "next.sitemap.config.js", "app/ui/cardsFarmers.js", "app/lib/db.js", "app/ui/navigation/mobile/Navigation.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/ui/dashboard/farmers-chart.js", "app/ui/dashboard/cardsFarmer.app/ui/dashboard/latest-farmers.jsces.js", "app/ui/dashboard/cardsUser.js", "app/ui/cardsFarmers.js", "app/lib/db.js", "app/ui/navigation/mobile/Navigation.js"],
   "exclude": ["node_modules"]
 }

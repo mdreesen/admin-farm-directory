@@ -1,5 +1,24 @@
 {
-  "/authentication/login/page": "app/authentication/login/page.js",
+  "/_not-found": "app/_not-found.js",
+  "/api/Authentication/existing/route": "app/api/Authentication/existing/route.js",
+  "/api/Authentication/login/route": "app/api/Authentication/login/route.js",
+  "/api/Authentication/logout/route": "app/api/Authentication/logout/route.js",
+  "/api/Authentication/signup/route": "app/api/Authentication/signup/route.js",
+  "/api/Contact/route": "app/api/Contact/route.js",
+  "/api/Farmers/[id]/route": "app/api/Farmers/[id]/route.js",
+  "/api/Farmers/route": "app/api/Farmers/route.js",
+  "/api/Users/route": "app/api/Users/route.js",
+  "/api/Users/[id]/route": "app/api/Users/[id]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/page": "app/page.js",
-  "/api/Authentication/login/route": "app/api/Authentication/login/route.js"
+  "/profile-farmer/[id]/page": "app/profile-farmer/[id]/page.js",
+  "/profile-farmer/[id]/update/page": "app/profile-farmer/[id]/update/page.js",
+  "/authentication/login/page": "app/authentication/login/page.js",
+  "/admin/dashboard/(overview)/page": "app/admin/dashboard/(overview)/page.js",
+  "/admin/dashboard/create-farmer/page": "app/admin/dashboard/create-farmer/page.js",
+  "/admin/dashboard/contact/[id]/page": "app/admin/dashboard/contact/[id]/page.js",
+  "/admin/dashboard/create-farmer/created-farmer/page": "app/admin/dashboard/create-farmer/created-farmer/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/dashboard/customers/page": "app/admin/dashboard/customers/page.js",
+  "/admin/dashboard/contact/page": "app/admin/dashboard/contact/page.js"
 }
