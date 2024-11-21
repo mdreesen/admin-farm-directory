@@ -1,0 +1,18 @@
+[
+    {
+        "linkName": "Exempt",
+        "directTo": "/farm-services/butchering/exempt"
+    },
+    {
+        "linkName": "Mobile Butchering",
+        "directTo": "/farm-services/butchering/mobile-butchers"
+    },
+    {
+        "linkName": "State Inspected",
+        "directTo": "/farm-services/butchering/state-inspected"
+    },
+    {
+        "linkName": "USDA Inspected",
+        "directTo": "/farm-services/butchering/usda-inspected"
+    }
+]

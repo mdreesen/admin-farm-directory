@@ -1,0 +1,34 @@
+[
+    {
+        "linkName": "Beef",
+        "directTo": "/farm-to-table/meat/beef"
+    },
+    {
+        "linkName": "Pork",
+        "directTo": "/farm-to-table/meat/pork"
+    },
+    {
+        "linkName": "Chicken",
+        "directTo": "/farm-to-table/meat/chicken"
+    },
+    {
+        "linkName": "Turkey",
+        "directTo": "/farm-to-table/meat/turkey"
+    },
+    {
+        "linkName": "Goat",
+        "directTo": "/farm-to-table/meat/goat"
+    },
+    {
+        "linkName": "Sheep",
+        "directTo": "/farm-to-table/meat/sheep"
+    },
+    {
+        "linkName": "Bison & Yak",
+        "directTo": "/farm-to-table/meat/bison-yak"
+    },
+    {
+        "linkName": "Other",
+        "directTo": "/farm-to-table/meat/other"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "linkName": "Chickens",
+        "directTo": "/live-animals/birds/chickens"
+    },
+    {
+        "linkName": "Ducks",
+        "directTo": "/live-animals/birds/ducks"
+    },
+    {
+        "linkName": "Geese",
+        "directTo": "/live-animals/birds/geese"
+    },
+    {
+        "linkName": "Turkeys",
+        "directTo": "/live-animals/birds/turkeys"
+    },
+    {
+        "linkName": "Other",
+        "directTo": "/live-animals/birds/other"
+    }
+]

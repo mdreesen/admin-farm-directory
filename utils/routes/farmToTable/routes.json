@@ -1,0 +1,42 @@
+[
+    {
+        "linkName": "Meat",
+        "directTo": "/farm-to-table/meat",
+        "icon": "Meat.webp"
+    },
+    {
+        "linkName": "Eggs",
+        "directTo": "/farm-to-table/eggs",
+        "icon": "Eggs.webp"
+    },
+    {
+        "linkName": "Milk & Dairy",
+        "directTo": "/farm-to-table/milk-dairy",
+        "icon": "Milk_and_Dairy.webp"
+    },
+    {
+        "linkName": "Vegetables & CSA",
+        "directTo": "/farm-to-table/vegetables-csa",
+        "icon": "Vegetables_and_CSA.webp"
+    },
+    {
+        "linkName": "Honey",
+        "directTo": "/farm-to-table/honey",
+        "icon": "Honey.webp"
+    },
+    {
+        "linkName": "Vineyards & Orchards",
+        "directTo": "/farm-to-table/vineyards-orchards",
+        "icon": "Vineyards_and_Orchards.webp"
+    },
+    {
+        "linkName": "Kitchen Goods",
+        "directTo": "/farm-to-table/kitchen-goods",
+        "icon": "Kitchen_Goods.webp"
+    },
+    {
+        "linkName": "Other",
+        "directTo": "/farm-to-table/other",
+        "icon": "Farm_to_Table.webp"
+    }
+]

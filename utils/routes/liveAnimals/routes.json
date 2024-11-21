@@ -1,0 +1,32 @@
+[
+    {
+        "linkName": "Livestock & Cattle",
+        "directTo": "/live-animals/livestock-cattle",
+        "icon": "Livestock_and_cattle.webp"
+    },
+    {
+        "linkName": "Equine & Mules<br/>& Donkeys",
+        "directTo": "/live-animals/equine-mules-donkeys",
+        "icon": "Equine.webp"
+    },
+    {
+        "linkName": "Pigs & Hogs<br/>& Piglets",
+        "directTo": "/live-animals/pigs-hogs-piglets",
+        "icon": "Pigs.webp"
+    },
+    {
+        "linkName": "Birds",
+        "directTo": "/live-animals/birds",
+        "icon": "Birds.webp"
+    },
+    {
+        "linkName": "Small Ruminants",
+        "directTo": "/live-animals/goat-sheep-ruminants",
+        "icon": "Small_Ruminants.webp"
+    },
+    {
+        "linkName": "Other",
+        "directTo": "/live-animals/other",
+        "icon": "Other_Live_Animals.webp"
+    }
+]

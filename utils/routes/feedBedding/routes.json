@@ -1,0 +1,17 @@
+[
+    {
+        "linkName": "Hay",
+        "directTo": "/feed-bedding/hay",
+        "icon": "Hay.webp"
+    },
+    {
+        "linkName": "Bagged Feed",
+        "directTo": "/feed-bedding/bagged-feed",
+        "icon": "Bagged_feed.webp"
+    },
+    {
+        "linkName": "Straw",
+        "directTo": "/feed-bedding/straw",
+        "icon": "Straw.webp"
+    }
+]

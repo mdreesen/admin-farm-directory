@@ -1,0 +1,323 @@
+{
+  "name": "The Farm Directory",
+  "short_name": "TFD",
+  "icons": [
+    {
+      "src": "/images/mobile/android-icon-36x36.webp",
+      "sizes": "36x36",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/mobile/android-icon-48x48.webp",
+      "sizes": "48x48",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/mobile/android-icon-72x72.webp",
+      "sizes": "48x48",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/mobile/android-icon-96x96.webp",
+      "sizes": "120x120",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/mobile/android-icon-144x144.webp",
+      "sizes": "144x144",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/mobile/android-icon-192x192.webp",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Bagged_feed.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Bagged_feed.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Birds.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Boarding_and_Pasture.webp",
+      "sizes": "1366x768",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Butchering.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Chickens_and_Chicks.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Custom_farming.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Ducks_and_ducklings.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Eggs.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Equine.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Equipment_sales_and_repair.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Events.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Farm_Events_and_Agritourism.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Farm_Services.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Farm_stands_and_stores.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Farm_stands.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Farm_stores.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Farm_to_Table.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Farm_Venue_For_Rent.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Farrier.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Feed_and_Bedding.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Fencing.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Flowers.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Geese.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Hauling.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Hay.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Honey.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Kitchen_Goods.webp",
+      "sizes": "1366x768",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Live_Animals.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Livestock_and_cattle.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Meat.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Milk_and_Dairy.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Other_Farm_Services.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Other_Live_Animals.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Other_Live_Birds.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Pigs.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Seed_and_Fertilizer.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Small_Ruminants.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Straw.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Tasting_Rooms.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Training.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Turkeys.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Vegetables_and_CSA.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Vet_and_Medicine.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/Vineyards_and_Orchards.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/navigation/You_pick.webp",
+      "sizes": "1025x576",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ],
+  "theme_color": "#7A3A30",
+  "background_color": "#E8E3D1",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}

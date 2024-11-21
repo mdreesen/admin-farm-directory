@@ -1,0 +1,14 @@
+[
+    {
+        "linkName": "Barley",
+        "directTo": "/feed-bedding/straw/barley"
+    },
+    {
+        "linkName": "Wheat",
+        "directTo": "/feed-bedding/straw/wheat"
+    },
+    {
+        "linkName": "Other Straw",
+        "directTo": "/feed-bedding/straw/other"
+    }
+]

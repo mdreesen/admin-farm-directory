@@ -1,0 +1,17 @@
+[
+    {
+        "linkName": "Farm Stands",
+        "directTo": "/stores/farm-stands",
+        "icon": "Farm_stands.webp"
+    },
+    {
+        "linkName": "Farm Stores",
+        "directTo": "/stores/farm-stores",
+        "icon": "Farm_stores.webp"
+    },
+    {
+        "linkName": "Farmers Markets",
+        "directTo": "/stores/farmers-markets",
+        "icon": "Farm_stands_and_stores.webp"
+    }
+]

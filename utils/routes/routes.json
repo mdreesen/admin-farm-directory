@@ -1,0 +1,42 @@
+[
+    {
+        "linkName": "Farm to Table",
+        "directTo": "/farm-to-table",
+        "icon": "Farm_to_Table.webp"
+    },
+    {
+        "linkName": "Live Animals",
+        "directTo": "/live-animals",
+        "icon": "Live_Animals.webp"
+    },
+    {
+        "linkName": "Feed & Bedding",
+        "directTo": "/feed-bedding",
+        "icon": "Feed_and_Bedding.webp"
+    },
+    {
+        "linkName": "Farm Events &<br/>Agritourism",
+        "directTo": "/farmevents-agritourism",
+        "icon": "Farm_Events_and_Agritourism.webp"
+    },
+    {
+        "linkName": "Stores",
+        "directTo": "/stores",
+        "icon": "Farm_stands_and_stores.webp"
+    },
+    {
+        "linkName": "Farm Services",
+        "directTo": "/farm-services",
+        "icon": "Farm_Services.webp"
+    },
+    {
+        "linkName": "Flowers",
+        "directTo": "/flowers",
+        "icon": "Flowers.webp"
+    },
+    {
+        "linkName": "Custom Farming",
+        "directTo": "/custom-farming",
+        "icon": "Custom_farming.webp"
+    }
+]

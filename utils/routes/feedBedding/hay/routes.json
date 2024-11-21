@@ -1,0 +1,18 @@
+[
+    {
+        "linkName": "Alfalfa Grass Hay",
+        "directTo": "/feed-bedding/hay/alfalfa-grass-hay"
+    },
+    {
+        "linkName": "Alfalfa Hay",
+        "directTo": "/feed-bedding/hay/alfalfa-hay"
+    },
+    {
+        "linkName": "Grass Hay",
+        "directTo": "/feed-bedding/hay/grass-hay"
+    },
+    {
+        "linkName": "Other Hay",
+        "directTo": "/feed-bedding/hay/grass-hay"
+    }
+]
