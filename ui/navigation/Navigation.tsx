@@ -86,7 +86,7 @@ export default function Navigation() {
                 <div className="flex h-16 items-center justify-between">
                     <div className="flex items-center">
                         <div className="flex-shrink-0">
-                            <Link href="/">
+                            <Link href="/dashboard">
                                 <Image
                                     className="h-12 w-auto"
                                     src="/images/logos/logo.webp"

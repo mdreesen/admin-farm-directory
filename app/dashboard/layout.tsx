@@ -42,7 +42,7 @@ export default async function RootLayout({
               <div className="flex h-16 justify-between">
                 <div className="flex justify-between w-full">
                   <div className="flex shrink-0 items-center">
-                    <Link href="/">
+                    <Link href="/dashboard">
                       <Image
                         className="h-12 w-auto"
                         src="/images/logos/logo.webp"
