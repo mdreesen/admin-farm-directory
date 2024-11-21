@@ -21,7 +21,6 @@ export default async function RootLayout({
       <Provider>
         <body className={inter.className}>
           {children}
-          <script id="gozen-main" data-app_id="c8f8eac6-702a-4fac-af7f-c7e6e0a7a708" src="https://signup-forms-cdn.app.gozen.io/v1/gozen-main.js" type="text/javascript" defer async />
         </body>
       </Provider>
     </html>
