@@ -21,8 +21,8 @@ function classNames(...classes: string[]) {
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "The Farm Directory",
-  description: "Connecting farms to communities.",
+  title: "The Farm Directory - Admin",
+  description: "Admoin site for Connecting farms to communities.",
 };
 
 export default async function RootLayout({
